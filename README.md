@@ -14,5 +14,8 @@ new orientationBlock("landscape","res/rotate.jpg");
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <p>
 
+## test it
+Test orientation lock now with your mobile device at [http://inkfood.github.io/orientation-block/]
+
 ## How it works
 Take a look at [inkfood.com/display-block](https://inkfood.com/display-block) to understand how it work and what it does.
