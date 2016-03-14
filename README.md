@@ -12,7 +12,7 @@ or
 new orientationBlock("landscape","res/rotate.jpg");
 ```
 <p align="center">
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Demo gif](http://inkfood.github.io/orientation-block/res/rotationLock_animLandscape.gif "Demo")
 <p>
 
 ## Test it
