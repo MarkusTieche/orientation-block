@@ -54,7 +54,6 @@ orientationBlock.prototype.setRotationBlock = function()
 
 orientationBlock.prototype.getOrientation = function()
 {
-  cc.log("getO")
   switch (window.orientation)
   {
     case 0:return "portrait";
