@@ -1,6 +1,6 @@
 var orientationBlock = function(orientation,image){
   //orientation = DESIRED ORIENTATION
-  //image = DISPLAY BLOCK IMGAGE
+  //image = URL TO DISPLAY BLOCK IMGAGE
 
   //CHECK FOR MOBILE BROWSER
   if(cc.sys.isMobile && !cc.sys.isNative)
@@ -12,7 +12,7 @@ var orientationBlock = function(orientation,image){
         this.rotationBlock.id = "rotationBlock";
         this.rotationBlock.style.position = "absolute";
         // rotationBlock.style.backgroundColor = "#D93600"; //JUST A BACKGROUND COLOR
-        this.rotationBlock.style.backgroundImage = "url('res/rotate.jpg')"; //BLOCKER IMAGE
+        this.rotationBlock.style.backgroundImage = "url("+image+")"; //BLOCKER IMAGE
         this.rotationBlock.style.backgroundSize = "cover"; //COVER FULL DIV WITH IMAGE
         this.rotationBlock.style.backgroundPosition = "center center"; //CENTER BG
         this.rotationBlock.style.position = "absolute"
