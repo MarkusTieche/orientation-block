@@ -2,7 +2,7 @@
 Orientation lock for mobile web app
 
 Blocks your content while the device is on a wrong oriantation. Modify the basic script to fit into your dev envoirement.
-Customize your content block element with css, add links or animations, add objects via Dom to the orientation block elments.
+Customize your content block element with css, add links or animations, add objects via Dom to the orientation block elment.
 
 Just create a new orientation block element. And your done.
 ```javascript
