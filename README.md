@@ -10,8 +10,9 @@ Just create a new orientation block element. And your done.
 new orientationBlock("portrait","res/rotate.jpg"); or
 new orientationBlock("landscape","res/rotate.jpg");
 ```
-
+<p align="center">
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<p>
 
 ## How it works
 Take a look at [inkfood.com/display-block](https://inkfood.com/display-block) to understand how it work and what it does.
