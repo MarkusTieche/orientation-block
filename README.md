@@ -11,9 +11,7 @@ new orientationBlock("portrait","res/rotate.jpg");
 or
 new orientationBlock("landscape","res/rotate.jpg");
 ```
-<p align="center">
-![Demo gif](http://inkfood.github.io/orientation-block/res/rotationLock_animLandscape.gif "Demo")
-<p>
+
 
 ## Test it
 Test cocos2d-x orientation lock now with your mobile device -> <a href="http://markustieche.github.io/orientation-block/" target="_blank">testRun</a>
