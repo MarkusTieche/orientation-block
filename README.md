@@ -16,8 +16,7 @@ new orientationBlock("landscape","res/rotate.jpg");
 <p>
 
 ## Test it
-Test cocos2d-x orientation lock now with your mobile device -> <a href="http://inkfood.github.io/orientation-block/" target="_blank">testRun</a>
+Test cocos2d-x orientation lock now with your mobile device -> <a href="http://markustieche.github.io/orientation-block/" target="_blank">testRun</a>
 
 ## How it works
 The scipt is made for cocos2d-x but the technique will apply to any html5 app.
-Take a look at <a href="http://www.inkfood.com/orientation-block/" target="_blank">inkfood.com/orientation-block</a> to understand how it work and what it does.
